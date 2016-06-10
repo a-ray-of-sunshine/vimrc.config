@@ -19,6 +19,7 @@ filetype plugin indent on    " required
 " config
 set number
 set encoding=utf8
+set shortmess=atI
 
 " 禁用 vim-markdown 自动 fold
 let g:vim_markdown_folding_disabled = 1
@@ -26,3 +27,8 @@ let g:vim_markdown_folding_disabled = 1
 " map
 imap jj <ESC>
 imap JJ <ESC>
+
+map <C-J> <C-W>j
+map <C-K> <C-W>k
+map <C-L> <C-W>l
+map <C-H> <C-W>h
