@@ -20,6 +20,9 @@ filetype plugin indent on    " required
 set number
 set encoding=utf8
 
+" 禁用 vim-markdown 自动 fold
+let g:vim_markdown_folding_disabled = 1
+
 " map
 imap jj <ESC>
 imap JJ <ESC>
