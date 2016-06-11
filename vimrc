@@ -27,6 +27,7 @@ let g:vim_markdown_folding_disabled = 1
 " map
 imap jj <ESC>
 imap JJ <ESC>
+map K k
 
 map <C-J> <C-W>j
 map <C-K> <C-W>k
