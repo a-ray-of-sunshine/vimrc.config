@@ -21,6 +21,10 @@ set number
 set encoding=utf8
 set shortmess=atI
 
+" 设置tab为4个空格
+set tabstop=4
+set expandtab
+
 " 禁用 vim-markdown 自动 fold
 let g:vim_markdown_folding_disabled = 1
 
