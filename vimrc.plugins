@@ -23,6 +23,14 @@ Plugin 'wesleyche/SrcExpl'
 Plugin 'vim-scripts/Trinity'
 " }}}
 
+" vim-scripts/OmniCppComplete {{{
+Plugin 'vim-scripts/OmniCppComplete'
+" }}}
+
+" snip {{{
+Plugin 'vim-scripts/snipMate'
+" }}}
+
 " }}}
 
 " plugin after config {{{
