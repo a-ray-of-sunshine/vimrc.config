@@ -19,3 +19,8 @@
     ``` bash
     ln -s ~/.vimrc.config/vimrc ~/.vimrc
     ```
+
+4. 安装插件
+
+    1. 启动 vim
+    2. 运行 :PluginInstall
