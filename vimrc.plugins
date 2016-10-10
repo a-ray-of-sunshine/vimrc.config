@@ -31,6 +31,18 @@ Plugin 'vim-scripts/OmniCppComplete'
 Plugin 'vim-scripts/snipMate'
 " }}}
 
+" delimitMate {{{
+Plugin 'Raimondi/delimitMate'
+" }}}
+
+" syntastic {{{
+Plugin 'scrooloose/syntastic'
+" }}}
+
+" nerdcommenter {{{
+Plugin 'scrooloose/nerdcommenter'
+" }}}
+
 " }}}
 
 " plugin after config {{{
